@@ -1,0 +1,14 @@
+{
+    "name": "ms-teams-integration",
+    "version": "1.0.3",
+    "private": true,
+    "dependencies": {
+        "config": "3.3.6",
+        "file-system": "^1.2.2",
+        "requestretry": "^7.1.0",
+        "winston": "3.3.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
